@@ -8,4 +8,4 @@
 - Семантическая верстка
 
 ## Ссылка на проект
-[GitHub Pages](https://github.com/0Toxich0/practice2)
+[GitHub Pages](https://0toxich0.github.io/practice2/)
